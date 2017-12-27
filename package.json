@@ -20,12 +20,17 @@
   },
   "homepage": "https://github.com/aether7/adessa-frontend-test#readme",
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.0",
+    "@fortawesome/react-fontawesome": "0.0.17",
     "consolidate": "^0.14.5",
     "express": "^4.14.0",
     "handlebars": "^4.0.6",
+    "lodash": "^4.17.4",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
+    "react-fontawesome": "^1.6.1",
     "react-redux": "^5.0.4",
+    "reactstrap": "^5.0.0-alpha.4",
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0"
   },
